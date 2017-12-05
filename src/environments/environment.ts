@@ -6,7 +6,7 @@
 export const environment = {
   production: false,
   firebase: {
-    // FireBase Configuration (Change to your firebase configuration)
+    // FireBase Configuration (Change it to your firebase configuration)
     apiKey: "AIzaSyCtEdxlMGiDdSa-Df0pCmLXD5huQDxa84w",
     authDomain: "hfchallenge.firebaseapp.com",
     databaseURL: "https://hfchallenge.firebaseio.com",
