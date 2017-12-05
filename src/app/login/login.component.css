@@ -1,0 +1,30 @@
+.logo {
+    width:70%;
+    margin: 1.5em auto 4em auto;
+    display:block;
+}
+.lock {
+    width:40%;
+    margin: 1.5em auto 4em auto;
+    display:block;
+}
+
+.fb {
+    background:#3B5998 url('../../assets/images/facebook.svg') no-repeat 14px 6px;
+    background-size: 47px;
+    color:#fff;
+    padding: 1.2em;
+    width: 100%;
+    cursor: pointer;
+    margin-bottom: 15px;
+    font-size: 1.3em;
+}
+.form-container{
+    background: #fff;
+    padding: 3.5em;
+    width: 500px;
+    position: fixed;
+    left: 50%;
+    margin-left: -250px;
+    margin-top: 50px;
+}
