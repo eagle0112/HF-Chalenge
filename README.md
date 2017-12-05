@@ -25,6 +25,7 @@ Those are the technologies i used to make the web app.
 ```npm install```
 3. You need to change the firebase configuration to yours because the app does not support firebase authentification.
 > Go to src/environments/environment.ts and change the configuration with yours
+
 > Make sure to change the security rules of your firebase storage to "allow read, write;"
 4. once the dependencies are installed you can run the server.
 ````
